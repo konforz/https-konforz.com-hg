@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/uu/Documents/eagle/ZXseries_PCB/ZXseries.sch at 4/25/2018 4:37 PM
+
+Part Value Device     Package Description 
+JP1        PINHD-2X20 2X20    PIN HEADER  
+JP2        PINHD-1X20 1X20    PIN HEADER  
+JP3        PINHD-1X20 1X20    PIN HEADER  
+
+manufacturer: https://oshpark.com
+
+Repository: https://github.com/konforz/https-konforz.com-hg
